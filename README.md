@@ -23,12 +23,10 @@ $ python sinema.py
 ```
 ## Informasi penting
 ```bash
-$-$ Jika gagal dump / tulisan username tidak ditemukan
-$_$ coba cek tumbal lohh apakah aman² aja atau udh terkena cepe
+$-$ Disaran Menggunakan URL m.facebook.com
+$_$ Gunakan Methode 3 Atau 4 
 ```
-# cara update
-```php
-$ cd
+# cara updatenya 
 $ cd crack3
 $ git pull
 $ python sinema.py
