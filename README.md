@@ -10,10 +10,10 @@ Download apk Termuxnya disini biar ngga eror🌟
 $ cd
 $ pkg update && pkg upgrade
 $ pkg install python git
-$ pkg install wget curl
 $ pip install requests mechanize
-$ pip install bs4 futures 
+$ pip install bs4 futures
 $ pip install rich stdiomask
+$ pip install cython
 $ rm -rf crack3
 $ git clone https://github.com/Syafii-XD/crack3
 $ ls ( L kecil )
