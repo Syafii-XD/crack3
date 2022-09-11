@@ -18,7 +18,7 @@ $ rm -rf crack3
 $ git clone https://github.com/Syafii-XD/crack3
 $ ls ( L kecil )
 $ cd crack3
-$ multi.tools
+$ pip install -r multi.tools
 $ python sinema.py
 ```
 ## Informasi penting
