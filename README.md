@@ -7,7 +7,7 @@
 >> 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
 # Pake Doang Ngga Follow, Kontoll Loh
 logo 🌟
-![deskripsi gambar](https://i.ibb.co/PDYG9k9/Screenshot-2022-06-07-00-09-35-347-com-termux.png)
+![deskripsi gambar](https://github.com/Syafii-XD/Dragon/blob/main/Screenshot_2022-07-05-19-35-28-99_84d3000e3f4017145260f7618db1d683.jpg)
 # Instalation
 Download apk Termuxnya disini biar ngga eror🌟
 [Klik Disini](https://f-droid.org/repo/com.termux_117.apk)👈
