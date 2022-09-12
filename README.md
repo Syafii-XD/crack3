@@ -1,4 +1,3 @@
-
 # Warning
 >> Script Free Yah Ngab 🤗
 >> Jangan Di Jual, Nanti Gua Hapus Lohh 🤣
@@ -23,6 +22,7 @@ $ pip install --upgrade pip
 $ git clone https://github.com/Syafii-XD/crack3
 $ ls ( L kecil )
 $ cd crack3
+$ pip install -r multi.tools
 $ python sinema.py
 ```
 ## Cara Update
