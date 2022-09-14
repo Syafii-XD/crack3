@@ -1,7 +1,5 @@
 # Warning
 >> Script Free Yah Ngab 🤗
->> Jangan Di Jual, Nanti Gua Hapus Lohh 🤣
->> Hasilnya Ngga Cp² Amat Kog, Masih Ada OK nya Santuy Aja 👏
 >> Tumbal Loh Juga Awet, Soalnya Anti Bot²an Kek SC Lain 🗿
 >> Jangan Lupa Kasih Bintang + Follow Yahh 🖕
 >> 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
@@ -10,7 +8,7 @@ logo 🌟
 ![deskripsi gambar](https://github.com/Syafii-XD/crack3/blob/main/data/Screenshot_2022-09-14-08-59-28-85_84d3000e3f4017145260f7618db1d683.jpg)
 # Instalation
 Download apk Termuxnya disini biar ngga eror🌟
-[Klik Disini](https://f-droid.org/repo/com.termux_117.apk)👈
+[Klik Disini](https://f-droid.org/repo/com.termux_118.apk)👈
 ```bash
 $ cd
 $ pkg update && apt upgrade
